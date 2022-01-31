@@ -1,0 +1,32 @@
+.main-container{
+    width: 50%;
+    margin: auto;
+  }
+  fnt-styl{
+    font-size: 130%;
+  }
+  .hr-style{
+    border: 1px solid black;
+  }
+  .select-style{
+    font-size: 130%; 
+    width: 100%; 
+    background-color: transparent; 
+    border-style: none;
+  }
+  .image-box {
+    position: relative;
+    margin: auto;
+    overflow: hidden;
+  }
+  .image-box img {
+    width: 290px; 
+    height: 180px; 
+    object-fit: cover; 
+    border-radius: 5%;
+    transition: all 0.3s;
+    transform: scale(1);
+  }
+  .image-box:hover img {
+    transform: scale(1.5);
+  }
