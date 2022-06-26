@@ -120,7 +120,4 @@ http://localhost:8080
 ```
 
 ## Feedback
-If you have any feedback, please reach out to me at nymur@w3engineers.com
-
-## 🚀 About Me
-My name is Md. Nymur Rahman and I'm an Intern Softwere Engineer of W3engineers Ltd....
+If you have any feedback, please reach out to me at naymhsain00@gmil.com
